@@ -37,7 +37,7 @@ public class android_server_iamhere {
         // DB에 접속하기 위한 재료
         String url = "jdbc:mysql://iamhere.cdf5mmjsw63q.ap-northeast-2.rds.amazonaws.com:3306/iamhere"; // 접속할 서버의 mysql주소
         String userName = "han"; // root말고 han계정으로 들어갔음
-        String password = "jo811275";
+        String password = "aaaa";
 
         // Mysql 연결
         conn = DriverManager.getConnection(url, userName, password);
